@@ -1,0 +1,53 @@
+name: Epic Games Free Games Tracker
+
+on:
+  schedule:
+    # Epic Games rotates free games on Thursdays at ~11am ET (15:00 UTC)
+    # Run every Thursday at 17:00 UTC to give some buffer
+    - cron: '0 17 * * 4'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check-free-games:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check for new free games
+        id: check
+        run: python scripts/check_free_games.py
+
+      - name: Commit updated data
+        if: steps.check.outputs.has_new_games == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/free_games.json
+          git commit -m "Update free games data — $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Create GitHub Issue
+        if: steps.check.outputs.has_new_games == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_TITLE: ${{ steps.check.outputs.issue_title }}
+          ISSUE_BODY: ${{ steps.check.outputs.issue_body }}
+        run: |
+          gh issue create \
+            --title "🎮 $ISSUE_TITLE" \
+            --body "$ISSUE_BODY" \
+            --label "free-games"

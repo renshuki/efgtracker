@@ -2,9 +2,8 @@ name: Epic Games Free Games Tracker
 
 on:
   schedule:
-    # Epic Games rotates free games on Thursdays at ~11am ET (15:00 UTC)
-    # Run every Thursday at 17:00 UTC to give some buffer
-    - cron: '0 17 * * 4'
+    # Run daily at 17:00 UTC to ensure no free game is missed
+    - cron: '0 17 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:

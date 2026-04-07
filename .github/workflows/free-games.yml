@@ -39,6 +39,12 @@ jobs:
           git commit -m "Update free games data — $(date -u +%Y-%m-%d)"
           git push
 
+      - name: Ensure free-games label exists
+        if: steps.check.outputs.has_new_games == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh label create "free-games" --color "0E8A16" --description "Epic Games Store free games" || true
+
       - name: Create GitHub Issue
         if: steps.check.outputs.has_new_games == 'true'
         env:

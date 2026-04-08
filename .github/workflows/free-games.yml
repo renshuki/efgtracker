@@ -51,8 +51,16 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_TITLE: ${{ steps.check.outputs.issue_title }}
           ISSUE_BODY: ${{ steps.check.outputs.issue_body }}
+        id: create_issue
         run: |
-          gh issue create \
+          ISSUE_URL=$(gh issue create \
             --title "🎮 $ISSUE_TITLE" \
             --body "$ISSUE_BODY" \
-            --label "free-games"
+            --label "free-games")
+          echo "issue_url=$ISSUE_URL" >> "$GITHUB_OUTPUT"
+
+      - name: Lock issue
+        if: steps.check.outputs.has_new_games == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh issue lock "${{ steps.create_issue.outputs.issue_url }}"

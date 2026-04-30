@@ -49,7 +49,27 @@
       "store_url": "https://store.epicgames.com/en-US/p/doomblade-afdf9a",
       "image_url": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg",
       "seller": "Iceberg Interactive"
+    },
+    "0623017cf9f341efbe07557f46beb4e8": {
+      "title": "Firestone Online Idle RPG",
+      "description": "Firestone: Online Idle RPG is a multiplayer fantasy game with idle rpg mechanics. Collect heroes\ud83e\uddd9\u200d\u2642\ufe0f, upgrade their gear & skills, and sent them in AFK battles or go on an incremental clicker frenzy to beat monstrous bosses! Chat with guild friends or engage in PVP\u2694\ufe0f.",
+      "original_price": "0",
+      "start_date": "2026-04-30T15:00:00.000Z",
+      "end_date": "2026-05-07T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1xeuq.png",
+      "seller": "AM Holyday Studios Ltd"
+    },
+    "102da1ac6e864d7f84889f2c0a107ee2": {
+      "title": "Oddsparks: An Automation Adventure",
+      "description": "Design automated workshops for your odd and adorable Sparks to carry and craft everything, including more of themselves. Lead your squad of Sparks into combat. Explore a strange fantasy world, in single player or online co-op. Unearth the ancient mystery of the Sparks!",
+      "original_price": "$29.99",
+      "start_date": "2026-04-30T15:00:00.000Z",
+      "end_date": "2026-05-07T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png",
+      "seller": "Handy Games"
     }
   },
-  "last_checked": "2026-04-23T17:29:05.138214+00:00"
+  "last_checked": "2026-04-30T17:28:21.953095+00:00"
 }

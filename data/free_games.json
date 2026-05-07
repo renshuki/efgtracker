@@ -69,7 +69,27 @@
       "store_url": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
       "image_url": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png",
       "seller": "Handy Games"
+    },
+    "4fb95c3f11754061b2b1a94e60d848bd": {
+      "title": "Arranger: A Role-Puzzling Adventure",
+      "description": "Find your way in a world of breezy, thoughtful puzzles, along a charming journey of self-discovery.",
+      "original_price": "$19.99",
+      "start_date": "2026-05-07T15:00:00.000Z",
+      "end_date": "2026-05-14T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-17mu3.jpg",
+      "seller": "Furniture & Mattress LLC"
+    },
+    "40980262fdb24c149094f3febfe84cb6": {
+      "title": "Trash Goblin",
+      "description": "A wholesome, cosy shopkeeping game with no pressures, no stress, and endless good vibes! Uncover and clean trinkets then upcycle them to sell to endless colourful, quirky customers. Spend your savings to upgrade your shop, buy better tools, plus expand and customise your space.",
+      "original_price": "$19.99",
+      "start_date": "2026-05-07T15:00:00.000Z",
+      "end_date": "2026-05-14T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png",
+      "seller": "Spilt Milk Studios"
     }
   },
-  "last_checked": "2026-04-30T17:28:21.953095+00:00"
+  "last_checked": "2026-05-07T17:31:31.975835+00:00"
 }

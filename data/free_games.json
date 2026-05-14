@@ -89,7 +89,27 @@
       "store_url": "https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7",
       "image_url": "https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png",
       "seller": "Spilt Milk Studios"
+    },
+    "73a4416d5cdb42f682d504fdf48e987b": {
+      "title": "The Telltale Batman Shadows Edition",
+      "description": "The Telltale Batman Shadows Edition",
+      "original_price": "0",
+      "start_date": "2026-05-14T15:00:00.000Z",
+      "end_date": "2026-05-21T15:00:00.000Z",
+      "store_url": "",
+      "image_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85_2560x1440-a85c5724ba30499ba5a81a9f2125e5d4",
+      "seller": "Epic Dev Test Account"
+    },
+    "190cb955f17f48dcb8576aa8288c887f": {
+      "title": "Sunderfolk - Standard Edition",
+      "description": "Sunderfolk - Standard Edition",
+      "original_price": "0",
+      "start_date": "2026-05-14T15:00:00.000Z",
+      "end_date": "2026-05-21T15:00:00.000Z",
+      "store_url": "",
+      "image_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/OfferImageWide_2560x1440-a500d7236c364c0bb373e3b6b9a6ee8b",
+      "seller": "Epic Dev Test Account"
     }
   },
-  "last_checked": "2026-05-07T17:31:31.975835+00:00"
+  "last_checked": "2026-05-14T17:31:55.736802+00:00"
 }

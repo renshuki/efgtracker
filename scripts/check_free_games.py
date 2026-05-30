@@ -13,7 +13,7 @@ API_URL = (
     "https://store-site-backend-static.ak.epicgames.com"
     "/freeGamesPromotions?locale=en-US&country=US&allowCountries=US"
 )
-STORE_BASE_URL = "https://store.epicgames.com/en-US/p"
+STORE_BASE_URL = "https://store.epicgames.com/p"
 DATA_FILE = Path(__file__).resolve().parent.parent / "data" / "free_games.json"
 
 
@@ -41,15 +41,18 @@ def fetch_free_games():
 def _parse_game(game, offer):
     """Extract relevant fields from a game element."""
     # Build store URL from mappings
-    slug = None
+    # Prefer productSlug because pageSlug mappings are absent for some offers.
+    slug = (game.get("productSlug") or "").strip("/")
     for mapping in game.get("catalogNs", {}).get("mappings", []):
+        if slug:
+            break
         if mapping.get("pageSlug"):
-            slug = mapping["pageSlug"]
+            slug = mapping["pageSlug"].strip("/")
             break
     if not slug:
         for mapping in game.get("offerMappings", []):
             if mapping.get("pageSlug"):
-                slug = mapping["pageSlug"]
+                slug = mapping["pageSlug"].strip("/")
                 break
 
     store_url = f"{STORE_BASE_URL}/{slug}" if slug else ""

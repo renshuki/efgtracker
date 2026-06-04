@@ -149,7 +149,27 @@
       "store_url": "",
       "image_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_s2_2560x1440-09c1b30be094430b93b53d0ccc07b8f1",
       "seller": "Epic Dev Test Account"
+    },
+    "a6a2d59fa54946dbbf16f14730c2e5f0": {
+      "title": "Rogue Waters",
+      "description": "Rogue Waters",
+      "original_price": "0",
+      "start_date": "2026-06-04T15:00:00.000Z",
+      "end_date": "2026-06-11T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/rogue-waters-9764d6",
+      "image_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/rogue-waters-wide_2560x1440-81c0f87c8e7c4bb09e2d7d9c94213104",
+      "seller": "Epic Dev Test Account"
+    },
+    "62b6d302e2bd41039449b1f2f9608748": {
+      "title": "Songs of Conquest",
+      "description": "Raise mighty armies, wield ancient magic and forge an empire. This turn-based strategy adventure game fuses strategic decision making, tactical combat and kingdom management.",
+      "original_price": "0",
+      "start_date": "2026-06-04T15:00:00.000Z",
+      "end_date": "2026-06-11T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/songs-of-conquest",
+      "image_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/s2_2560x1440-5c396b18c3e1460fb4a268cc6bbdfaa2",
+      "seller": "Epic Dev Test Account"
     }
   },
-  "last_checked": "2026-05-28T18:04:02.822822+00:00"
+  "last_checked": "2026-06-04T17:50:44.283466+00:00"
 }

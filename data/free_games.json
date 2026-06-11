@@ -169,7 +169,27 @@
       "store_url": "https://store.epicgames.com/p/songs-of-conquest",
       "image_url": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/s2_2560x1440-5c396b18c3e1460fb4a268cc6bbdfaa2",
       "seller": "Epic Dev Test Account"
+    },
+    "7f0ab2828f9743d0abc6612a11222fdf": {
+      "title": "The Ouroboros King",
+      "description": "The Ouroboros King combines the strategic depth of chess with the build variety and replayability of roguelikes. Assemble a formidable army, discover powerful relics, and buy surprising gadgets to defeat the Coven.",
+      "original_price": "$9.99",
+      "start_date": "2026-06-11T15:00:00.000Z",
+      "end_date": "2026-06-18T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/the-ouroboros-king-e1d547",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
+      "seller": "Plug In Digital SAS"
+    },
+    "eb6ae87e73d94d2c96bab3c4da4dd3de": {
+      "title": "Warhammer 40K Speed Freeks",
+      "description": "High-octane combat racing in the Warhammer 40,000 universe.",
+      "original_price": "$19.99",
+      "start_date": "2026-06-11T15:00:00.000Z",
+      "end_date": "2026-06-18T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
+      "seller": "Wired Productions"
     }
   },
-  "last_checked": "2026-06-04T17:50:44.283466+00:00"
+  "last_checked": "2026-06-11T18:01:49.147055+00:00"
 }

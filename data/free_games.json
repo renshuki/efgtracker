@@ -189,7 +189,27 @@
       "store_url": "https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c",
       "image_url": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
       "seller": "Wired Productions"
+    },
+    "ea365d314ecf4224a5f58d2d7430e7aa": {
+      "title": "Citizen Sleeper",
+      "description": "Roleplaying in the ruins of interplanetary capitalism. Live the life of an escaped worker, washed-up on a lawless station at the edge of an interstellar society. Inspired by the flexibility and freedom of TTRPGs, choose your friends, escape your past and change your future.",
+      "original_price": "$19.99",
+      "start_date": "2026-06-18T15:00:00.000Z",
+      "end_date": "2026-06-25T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/citizen-sleeper-944858",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-xudwg.jpg",
+      "seller": "Surprise Attack Pty Ltd DBA Fellow Traveller Games"
+    },
+    "aee7ec395d054078a48d867849e2a550": {
+      "title": "ROBOBEAT",
+      "description": "Keep your trigger finger on the pulse! In rhythm shooter ROBOBEAT, you'll play as Ace - a bounty hunter on a mission to capture robot-gone-rogue Frazzer. Wall run, slide, and shoot to your own beat using the in-game custom music editor, blasting through Frazzer's armies!",
+      "original_price": "$19.99",
+      "start_date": "2026-06-18T15:00:00.000Z",
+      "end_date": "2026-06-25T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/robobeat-5f084b",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-1ojda.png",
+      "seller": "Kwalee"
     }
   },
-  "last_checked": "2026-06-11T18:01:49.147055+00:00"
+  "last_checked": "2026-06-18T17:59:36.677266+00:00"
 }

@@ -229,7 +229,27 @@
       "store_url": "https://store.epicgames.com/p/voidwrought-ce8f4b",
       "image_url": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg",
       "seller": "Kwalee"
+    },
+    "9bf3d3188d1e498095bc23c0955538d9": {
+      "title": "River City Girls 2",
+      "description": "A pixel-art sci-fi adventure set in the midst of a rebellion against a totalitarian regime, LUNARK is a modern take on the 2D cinematic platformer genre of the '90s. Run, jump, hang, climb, roll, and shoot your way through gorgeous and mysterious locations!",
+      "original_price": "$39.99",
+      "start_date": "2026-07-02T15:00:00.000Z",
+      "end_date": "2026-07-09T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/river-city-girls-2-77af3a",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png",
+      "seller": "WayForward"
+    },
+    "4ef54d5829b04656902dfa1f29b3b732": {
+      "title": "I Have No Mouth, and I Must Scream",
+      "description": "The Allied Mastercomputer has destroyed all of humanity except for five people, whom it has been keeping them alive and torturing them for the past one hundred and nine years by designing virtual adventures based on their fears and weaknesses.",
+      "original_price": "$9.99",
+      "start_date": "2026-07-02T15:00:00.000Z",
+      "end_date": "2026-07-09T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png",
+      "seller": "Night Dive Studios, Inc."
     }
   },
-  "last_checked": "2026-06-25T17:36:27.404590+00:00"
+  "last_checked": "2026-07-02T17:31:33.848956+00:00"
 }

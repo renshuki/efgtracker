@@ -249,7 +249,27 @@
       "store_url": "https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2",
       "image_url": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png",
       "seller": "Night Dive Studios, Inc."
+    },
+    "e5da2c017d4d4afab9f4c56525b66100": {
+      "title": "Nova Lands",
+      "description": "Nova Lands is a factory building, exploration, and island management game. Explore, engage in combat, and automate your industry. The planet you\u2019re on is full of mysteries, creatures, people, and things to do. Welcome to your new home amongst the stars!",
+      "original_price": "$19.99",
+      "start_date": "2026-07-09T15:00:00.000Z",
+      "end_date": "2026-07-16T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/nova-lands-4d1788",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
+      "seller": "Hypetrain Digital"
+    },
+    "f247e0af293645bda266fa9957d82d62": {
+      "title": "Tattoo Tycoon",
+      "description": "Become a tattoo artist and manage your very own tattoo parlor. Find the best designs for your clients, turning their vague ideas into stunning works of body art. Expand from a cozy personal studio into a thriving multi-parlor business across the diverse districts of Tattuga Bay.",
+      "original_price": "$29.99",
+      "start_date": "2026-07-09T15:00:00.000Z",
+      "end_date": "2026-07-16T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/tattoo-tycoon-b4352c",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
+      "seller": "Handy Games"
     }
   },
-  "last_checked": "2026-07-02T17:31:33.848956+00:00"
+  "last_checked": "2026-07-09T18:44:26.347544+00:00"
 }

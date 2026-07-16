@@ -269,7 +269,27 @@
       "store_url": "https://store.epicgames.com/p/tattoo-tycoon-b4352c",
       "image_url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
       "seller": "Handy Games"
+    },
+    "c27f2bb0dd9b4c4ca4973e653ab8a5be": {
+      "title": "Luto",
+      "description": "Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses.",
+      "original_price": "$19.99",
+      "start_date": "2026-07-16T15:00:00.000Z",
+      "end_date": "2026-07-23T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/luto-0a4ab3",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png",
+      "seller": "Broken Bird Games"
+    },
+    "371545146a944478ad5a87f9b581ac29": {
+      "title": "Echo Generation: Midnight Edition",
+      "description": "Lead a gang of kids to uncover spooky mysteries, battle creatures, and explore the supernatural side of your hometown in Echo Generation, a turn-based adventure set in the 90s.",
+      "original_price": "$24.99",
+      "start_date": "2026-07-16T15:00:00.000Z",
+      "end_date": "2026-07-23T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/echo-generation-midnight-edition-069026",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
+      "seller": "Cococucumber Inc"
     }
   },
-  "last_checked": "2026-07-09T18:44:26.347544+00:00"
+  "last_checked": "2026-07-16T17:57:59.850741+00:00"
 }

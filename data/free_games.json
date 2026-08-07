@@ -319,7 +319,27 @@
       "store_url": "https://store.epicgames.com/p/sol-cesto-e9b803",
       "image_url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1ara2.png",
       "seller": "Goblinz Studio SAS"
+    },
+    "871cc4ff18444059890a4d28653a62d5": {
+      "title": "Beacon Pines",
+      "description": "Beacon Pines is a cute and creepy adventure game. Sneak out late, make new friends, uncover hidden truths, and collect words that will change the course of fate!",
+      "original_price": "$19.99",
+      "start_date": "2026-08-06T15:00:00.000Z",
+      "end_date": "2026-08-13T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/beacon-pines-629fc3",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg",
+      "seller": "Surprise Attack Pty Ltd DBA Fellow Traveller Games"
+    },
+    "231e8f6d250a453f9c44c0adf3a34656": {
+      "title": "We Were Here Together",
+      "description": "As we explore these frozen wastes, misfortune strikes once again. Through the fierce blizzard, a flare lights the sky, followed by a cry for help over the radio - broken, dying... No one else can come to their rescue. Can we make it back - together?",
+      "original_price": "$12.99",
+      "start_date": "2026-08-06T15:00:00.000Z",
+      "end_date": "2026-08-13T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/we-were-here-together-6a6d66",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png",
+      "seller": "TMG Studios B.V."
     }
   },
-  "last_checked": "2026-07-30T18:07:49.399361+00:00"
+  "last_checked": "2026-08-07T10:15:48.191677+00:00"
 }

@@ -339,7 +339,17 @@
       "store_url": "https://store.epicgames.com/p/we-were-here-together-6a6d66",
       "image_url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png",
       "seller": "TMG Studios B.V."
+    },
+    "0e44600a079e419abbb291ccf5af9ee7": {
+      "title": "Caravan SandWitch",
+      "description": "Embark on a journey across vast landscapes in Caravan SandWitch, a captivating narrative-driven exploration adventure.",
+      "original_price": "$24.99",
+      "start_date": "2026-08-13T15:00:00.000Z",
+      "end_date": "2026-08-20T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/caravan-sandwitch-05ff58",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg",
+      "seller": "Plug In Digital SAS"
     }
   },
-  "last_checked": "2026-08-07T10:15:48.191677+00:00"
+  "last_checked": "2026-08-13T17:47:26.876280+00:00"
 }

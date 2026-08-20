@@ -349,7 +349,27 @@
       "store_url": "https://store.epicgames.com/p/caravan-sandwitch-05ff58",
       "image_url": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg",
       "seller": "Plug In Digital SAS"
+    },
+    "b467b7d3570e44c0b84e59475f4a5636": {
+      "title": "Cardpocalypse Standard Edition",
+      "description": "10-year old Jess accidentally gets everybody's favorite collectible card game banned in Dudsdale Elementary - even worse, it\u2019s her first day! But when troubles arise and mutants from the game start to come to life, and it\u2019s up to Jess and her friends to stop them. Become a Meg...",
+      "original_price": "$24.99",
+      "start_date": "2026-08-20T15:00:00.000Z",
+      "end_date": "2026-08-27T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/cardpocalypse/home",
+      "image_url": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df",
+      "seller": "Gambrinous"
+    },
+    "a802acab90af4a07952a07a9fa677f2f": {
+      "title": "Epic Mage Bundle",
+      "description": "Claim a magical Free Gift valued at more than $55! Enhance your Albion journey with enchanted vanity items, two unique mount skins, and a treasure trove of essential progression rewards.",
+      "original_price": "0",
+      "start_date": "2026-08-20T15:00:00.000Z",
+      "end_date": "2026-08-27T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/albion-online-7eb24d",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-7k7df.png",
+      "seller": "Sandbox Interactive GmbH"
     }
   },
-  "last_checked": "2026-08-13T17:47:26.876280+00:00"
+  "last_checked": "2026-08-20T17:17:57.417209+00:00"
 }

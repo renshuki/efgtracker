@@ -389,7 +389,17 @@
       "store_url": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
       "image_url": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg",
       "seller": "Prodigy Design Ltd"
+    },
+    "b8cc76ce7d6645f0a282b843a072cc78": {
+      "title": "Alone With You",
+      "description": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes around you.",
+      "original_price": "$9.99",
+      "start_date": "2026-09-03T15:00:00.000Z",
+      "end_date": "2026-09-10T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/alone-with-you-028a15",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
+      "seller": "BancyCo"
     }
   },
-  "last_checked": "2026-08-28T01:11:54.367393+00:00"
+  "last_checked": "2026-09-03T19:29:01.256761+00:00"
 }

@@ -419,7 +419,27 @@
       "store_url": "https://store.epicgames.com/p/astral-ascent-b33bc2",
       "image_url": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
       "seller": "Hibernian Workshop"
+    },
+    "8a20c6c8d5b5417e800c687e9d72013e": {
+      "title": "Mindcop",
+      "description": "Mindcop is a non-linear \u201ewhodunnit\u201c detective game. It mixes a story driven adventure with real-time match-3 puzzle. As the infamous Mindcop, you can dive into the minds of your suspects to uncover their secrets and unravel their lies.\u200b",
+      "original_price": "$14.99",
+      "start_date": "2026-09-17T15:00:00.000Z",
+      "end_date": "2026-09-24T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/mindcop-78e6c1",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
+      "seller": "Plug In Digital SAS"
+    },
+    "b9ff3f98367a45cdac289dff6683a2bc": {
+      "title": "Shogun Showdown",
+      "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
+      "original_price": "$14.99",
+      "start_date": "2026-09-17T15:00:00.000Z",
+      "end_date": "2026-09-24T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/shogun-showdown-61832d",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg",
+      "seller": "Goblinz Studio SAS"
     }
   },
-  "last_checked": "2026-09-10T19:19:17.674402+00:00"
+  "last_checked": "2026-09-17T19:55:29.317574+00:00"
 }

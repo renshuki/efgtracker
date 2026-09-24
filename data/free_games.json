@@ -439,7 +439,27 @@
       "store_url": "https://store.epicgames.com/p/shogun-showdown-61832d",
       "image_url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg",
       "seller": "Goblinz Studio SAS"
+    },
+    "7c14bf0cffdd43be968fdcf28e5af653": {
+      "title": "Astrea Six Sided Oracles",
+      "description": "An all new dice-deck-building roguelike, Astrea, has you chart a path through the ruins of a lost civilization as one of six brave Oracles. Using an ever-changing deck of dice and enchanted Sentinels, Purify waves of Corrupted foes and a decayed goddess to save the Star System.",
+      "original_price": "$24.99",
+      "start_date": "2026-09-24T15:00:00.000Z",
+      "end_date": "2026-10-01T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/astrea-six-sided-oracles-33c949",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
+      "seller": "Akupara Games"
+    },
+    "6d99eae44d724baf84d6261a7a0f05d2": {
+      "title": "Mechabellum",
+      "description": "Command massive armies in this epic mech auto-battler. Draft your troops, customize your units, master your formations, and crush enemies in spectacular 3D battles. All strategy, no clickfest. Outsmart opponents in 1v1, 2v2, free-for-all, or Survival Mode.",
+      "original_price": "$14.99",
+      "start_date": "2026-09-24T15:00:00.000Z",
+      "end_date": "2026-10-01T15:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/mechabellum-88a843",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg",
+      "seller": "Dreamhaven, Inc."
     }
   },
-  "last_checked": "2026-09-17T19:55:29.317574+00:00"
+  "last_checked": "2026-09-24T20:12:01.575923+00:00"
 }

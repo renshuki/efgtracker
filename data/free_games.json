@@ -539,7 +539,17 @@
       "store_url": "https://store.epicgames.com/p/home-19212a",
       "image_url": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
       "seller": "BancyCo"
+    },
+    "4e469c7d8bbf49bcabc2c07127d3d946": {
+      "title": "Sorry We're Closed",
+      "description": "Sorry We're Closed is a story-driven survival horror game about demons, angels and what happens when both sides collide. A mix of fixed-camera exploration and arcade-style shooting where Michelle must use her Third Eye to see between worlds, uncover secrets and solve puzzles.",
+      "original_price": "$24.99",
+      "start_date": "2026-10-29T15:00:00.000Z",
+      "end_date": "2026-11-05T16:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/sorry-were-closed-724c86",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
+      "seller": "Akupara Games"
     }
   },
-  "last_checked": "2026-10-22T20:20:06.033525+00:00"
+  "last_checked": "2026-10-29T21:28:21.563482+00:00"
 }

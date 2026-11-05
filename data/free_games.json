@@ -549,7 +549,27 @@
       "store_url": "https://store.epicgames.com/p/sorry-were-closed-724c86",
       "image_url": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
       "seller": "Akupara Games"
+    },
+    "a9748abde1c94b66aae5250bb9fc5503": {
+      "title": "Idle Champions of the Forgotten Realms",
+      "description": "Idle Champions of the Forgotten Realms is a Dungeons & Dragons strategy management game uniting characters from throughout the D&D multiverse into a grand adventure.",
+      "original_price": "0",
+      "start_date": "2026-11-05T16:00:00.000Z",
+      "end_date": "2026-11-12T16:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg",
+      "seller": "Codename Entertainment"
+    },
+    "3be0a0d8479946d78f60d90c9442a0b4": {
+      "title": "Flotsam",
+      "description": "The floating garbage town survival game! Scavenge what precious garbage you can from the ocean's surface and grow your city while doing your best to survive in this colorful post-apocalyptic world.",
+      "original_price": "$24.99",
+      "start_date": "2026-11-05T16:00:00.000Z",
+      "end_date": "2026-11-12T16:00:00.000Z",
+      "store_url": "https://store.epicgames.com/p/flotsam-266287",
+      "image_url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg",
+      "seller": "Pajama Llama Games"
     }
   },
-  "last_checked": "2026-10-29T21:28:21.563482+00:00"
+  "last_checked": "2026-11-05T22:25:44.651532+00:00"
 }
